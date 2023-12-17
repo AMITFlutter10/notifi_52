@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463054909191",
+    "project_id": "notify52-e3444",
+    "storage_bucket": "notify52-e3444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463054909191:android:1fa6f2e4e9e6cd78dcdfa2",
+        "android_client_info": {
+          "package_name": "com.example.notifi_52"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOVi05RRevQJGcSUCjtqAMD11UhcRmiOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
